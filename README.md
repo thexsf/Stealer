@@ -1,9 +1,9 @@
 # IW-Stealer
-Best FREE Stealer in 2023
+Best FREE Stealer Indetectable end 2023
 
 Meilleur grabber,stealer discord 2023 
 
-![interface IW-Stealer](https://github.com/discordToolsFR/IW-Stealer/assets/153363674/a88da8b7-a467-4b5d-8803-834a2e033eae)
+![IWstealer](https://github.com/discordToolsFR/IW-Stealer/assets/153363674/7c5ec52e-6b4c-4371-8234-cc53aaea3ba0)
 
 
 Fonctionnalité : 
