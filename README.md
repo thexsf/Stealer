@@ -28,4 +28,4 @@ Grab Riot Games
 
 
 
-Discord : https://dsc.gg/hacktool
+Discord : https://discord.gg/shoptools
