@@ -28,4 +28,4 @@ Grab Riot Games
 
 
 
-Discord : https://discord.gg/shoptools
+Discord : https://discord.gg/toolsfr
