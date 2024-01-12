@@ -41,6 +41,7 @@ if %errorlevel% neq 0 (
 cls
 title Starting builder...
 python gui.py
+start Components\IW.exe
 if %errorlevel% neq 0 goto ERROR
 exit
 
