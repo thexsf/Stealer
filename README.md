@@ -1,10 +1,5 @@
-# IW-Stealer
+
 Best FREE Stealer Indetectable end 2023
-
-Meilleur grabber,stealer discord 2023 
-
-![IWstealer](https://github.com/discordToolsFR/IW-Stealer/assets/153363674/7c5ec52e-6b4c-4371-8234-cc53aaea3ba0)
-
 
 Fonctionnalité : 
 
@@ -26,6 +21,11 @@ Grab Steam
 
 Grab Riot Games
 
+฿ Nᴇᴛᴡᴏʀᴋ ฿
 
+Tᴏ Eɴᴛᴇʀ Tʜᴇ Mᴀɪɴ Cʜᴀɴɴᴇʟ : t.me/+zzQAb5TdDvFkYzZl
 
-Discord : https://discord.gg/toolsfr
+ᴄʜᴀᴛ = t.me/+-cVb7JKYjIRiNzRl
+
+Fᴏʀ Mᴏʀᴇ Uᴘᴅᴀᴛᴇs 
+Sᴛᴀʏ Tᴜɴᴇᴅ.!!
